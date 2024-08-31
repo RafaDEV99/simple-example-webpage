@@ -2,11 +2,11 @@
 Por RafaDEV99-->
 
 <!DOCTYPE html>
-<html lang="es" style="background-color: aqua;">
+<html lang="en" style="background-color: aqua;">
     
     <title>XD Page</title>
 
-    <body>
+    <body id="XDXD">
         <h2 style="color: blue;">THE XD PAGE OF SOUND</h2>
         This is the Xd page and her will be a goofy asss cat
         <img src="Cat.jpg" alt="A goofy asss cat" style="display: grid; padding: 30px;">
@@ -14,6 +14,15 @@ Por RafaDEV99-->
     </body>
 
     <body>
+        <ol>
+            <li>XD</li>
+            <li>This is the XD</li>
+            <li>This is an epic List!!</li>
+            <li>Hello world, fellas!!</li>
+        </ol>
+    </body>
+
+    <body id="bodybuttons">
         <!--Los dos botones para parar y reproducir el sonido-->
         <button id="playSoundButton">On</button>
         <button id="StopSoundNOWbutton">Off</button>
@@ -22,11 +31,10 @@ Por RafaDEV99-->
             <source src="Algunos sonidos/The-Great-Strategy-_2005_-Roblox-Theme-2006.mp3" type="audio/mp3">
             <source src="Algunos sonidos/Synthwave-goose-Blade-Runner-2049.mp3" type="audio/mp3"> 
         </audio>
-        
     </body>
 
-    <bodyTroll style="visibility: visible; display: grid; padding: 30px;">
-        <div id="troll_body" style="visibility: hidden;">
+    <bodyTroll id="troll_body" style="visibility: hidden; display: grid; padding: 30px">
+        <div>
             <video id="video">
                 <source src="videos/Never Gonna Give You Up.mp4" type="video/mp4">
                 no es compatible 
@@ -42,22 +50,30 @@ Por RafaDEV99-->
         
         document.getElementById('playSoundButton').addEventListener('click', function () {
             
-            document.getElementById("troll_body").setAttribute("style", "display: grid; padding: 30px; visibility: visible;")
+            //TODO add this in the future, or you can´t do it??
+
+            //this is an example i will add links here
+            //links = ["XD", "XD2", "XDXD22"]
+
+            //onclick="window.location.href='https://www.youtube.com/watch?v=dQw4w9WgXcQ';"
+
+            //console.log(links);
+            
+            //For now i put this SHIT
+            document.getElementById("troll_body").setAttribute("style", "display: grid; padding: 30px; visibility: visible")
             video = document.getElementById("video")
             video.play();
             video.currentTime = 0.0;
-            //audio = document.getElementById('sound');
-            //audio.play();
             
         });
 
         document.getElementById("StopSoundNOWbutton").addEventListener('click', function () {
             
-            document.getElementById("troll_body").setAttribute("style", "display: grid; padding: 30px; visibility: hidden;")
+            //TODO and this too xD
+            document.getElementById("troll_body").setAttribute("style", "display: grid; padding: 30px; visibility: hidden")
             video.pause();
             video.currentTime = 0.0;
-            //audio.pause();
-            
+
         });
 
     </script>
