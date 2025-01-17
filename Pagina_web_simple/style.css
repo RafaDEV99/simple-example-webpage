@@ -3,15 +3,18 @@ h1 {
 }
 
 body {
-    
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(0, 150, 230);
+    border-radius: 30px;
     color: rgb(0, 0, 0);
+
 }
 
 div {
 
-    
     background-color: rgb(210, 30, 30);
+    border-radius: 30px;
     width: 245px;
     height: 45px;
     padding: 20px;
@@ -22,6 +25,7 @@ div {
 image {
 
     background-color: blue;
+    border-radius: 30px;
     width: 300px;
     height: 100px;
     padding: 20px;
