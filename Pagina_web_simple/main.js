@@ -15,7 +15,7 @@ function timerCOOL() {
     console.log("This is a timer so wait the time!");
     const timer = setTimeout(() => {
         console.log("wswkslwkswsl")        
-        alert("You are here!!")
+        alert("Cool!")
     }, 1000);
 
     var numTime = timer;
