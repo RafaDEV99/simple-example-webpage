@@ -1,11 +1,10 @@
 function yeet() {
-    var xd = 3;
+    var xd = 20;
     
-
     console.log("You have been alerted!!");
     alert("This is cool!!");
 
-    for (var i = 0; i < 20; i++) {
+    for (var i = 0; i < xd; i++) {
         console.log(i)
     }
 
