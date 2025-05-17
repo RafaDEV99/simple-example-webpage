@@ -2,47 +2,81 @@ h1 {
     color: blue;
 }
 
-body {
+html, body {
+    height: 100%;
+    margin: 20;
+    margin-bottom: 100px;
+    transform: translateY(80px);
+}
 
+body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: rgb(0, 150, 230);
+    padding: 40px;
     border-radius: 30px;
     color: rgb(0, 0, 0);
-
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column;
 }
 
 div {
-
     background-color: rgb(210, 30, 30);
     border-radius: 30px;
     width: 245px;
     height: 45px;
     padding: 20px;
     margin: 20px;
-
+    border-image: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 41%, rgba(0,212,255,1) 100%) 1;
+    border: 4px solid;
 }
 
-image {
-
+img {
     background-color: blue;
     border-radius: 30px;
-    width: 300px;
-    height: 100px;
-    padding: 20px;
-    margin: 20px;
-
+    padding: 5px;
+    margin: 5px;
 }
 
-div2 {
-
+.div2 {
     padding: 20px;
     margin: 20px;    
-
 }
 
-div3 {
-
+.div3 {
     padding: 20px;
     margin: 20px; 
+}
 
+button {
+    margin: 10px;
+    border-radius: 30px; 
+    padding: 5px;
+}
+
+button:hover, div:hover, img:hover, h1:hover, ol:hover, li:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+button, div, img, h1, ol, li {
+    transform: scale(1);
+    transition: transform 0.3s ease;
+}
+
+#tex:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+#tex {
+    transform: scale(1);
+    transition: transform 0.3s ease;
+    background-color: rgba(0, 0, 0, 0);
+    border: transparent 2px solid;
+    width: auto;
+    height: auto;
+    margin: 1px;
+    padding: 0px;
 }

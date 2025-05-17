@@ -13,3 +13,13 @@ Thanks for respecting my work and happy coding!
 Yes you can also add whatever you like to the project, even if you are not good at programming but want to add a message of your own, feel free to commit with a new message or something you want to add to the code!
 
 Thank you for looking at my project!
+
+# Cool things to do!
+These are some cool fetures you can implement:
+1. you can change the css file!
+2. add more images
+3. also add funcionality
+4. and more!
+
+Remenber to respecting my work!!! :3
+
