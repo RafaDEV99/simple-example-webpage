@@ -1,3 +1,7 @@
+:root {
+    --bordingBlue: rgb(0, 86, 179);
+}
+
 h1 {
     color: blue;
 }
@@ -28,15 +32,14 @@ div {
     height: 45px;
     padding: 20px;
     margin: 20px;
-    border-image: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 41%, rgba(0,212,255,1) 100%) 1;
-    border: 4px solid;
+    border: var(--bordingBlue) 4px inset;
 }
 
 img {
-    background-color: blue;
     border-radius: 30px;
-    padding: 5px;
+    padding: 2px;
     margin: 5px;
+    border: var(--bordingBlue) 4px inset;
 }
 
 .div2 {
