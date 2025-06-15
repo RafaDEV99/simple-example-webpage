@@ -1,5 +1,7 @@
 :root {
     --bordingBlue: rgb(0, 86, 179);
+    --epicRed: rgb(217, 50, 89);
+    --coolGreen: rgb(57, 158, 84);
 }
 
 h1 {
