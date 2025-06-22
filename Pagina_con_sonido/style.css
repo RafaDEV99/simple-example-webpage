@@ -1,6 +1,8 @@
 :root {
     --videoWidth: 700px;
     --videoHeight: 700px;
+    --videoBorderRadius: 30px;
+    --videoBorderColor: black;
 }
 
 body {
