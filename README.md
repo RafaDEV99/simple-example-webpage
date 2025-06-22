@@ -3,6 +3,7 @@ Open the html file with your favorite browser and that's it, you can edit it if 
 browser or your favorite IDE and integrate it with the web page.
 
 If you have any problems or comments, post them in the problems section on github, I'm always on the lookout!!!!
+and thats it, you can now use the web page with sound and images, you can also add more images and sounds if you want, just put them in the same folder as the html file and change the code to your liking.
 
 # Credits:
 These scripts are made by RafaDEV99 You can use these freely as learning how scripts work, however don't copy the same script and don't say it's yours :D
