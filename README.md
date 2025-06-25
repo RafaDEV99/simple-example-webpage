@@ -1,3 +1,5 @@
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/RafaDEV99/Pagina-web-simple?utm_source=oss&utm_medium=github&utm_campaign=RafaDEV99%2FPagina-web-simple&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 # Instructions:
 Open the html file with your favorite browser and that's it, you can edit it if you want. There is also a web page with sound that I put so you can just drag the file to your
 browser or your favorite IDE and integrate it with the web page.
