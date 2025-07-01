@@ -1,5 +1,5 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/RafaDEV99/Pagina-web-simple)
-![Github comit activity](https://img.shields.io/github/commit-activity/m/RafaDEV99/Pagina-web-simple)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/:interval/:user/:repo)
 
 # Instructions:
 Open the html file with your favorite browser and that's it, you can edit it if you want. There is also a web page with sound that I put so you can just drag the file to your
