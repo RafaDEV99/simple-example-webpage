@@ -25,5 +25,5 @@ These are some cool features you can implement:
 3. Also add functionality
 4. and more!
 
-Remenber to respecting my work!!! :3
+Remember to respect my work! :3
 
