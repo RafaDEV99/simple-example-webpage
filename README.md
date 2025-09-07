@@ -1,3 +1,6 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/RafaDEV99/Pagina-web-simple)
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/RafaDEV99/Pagina-web-simple/latest/total)
+
 # Instructions:
 Open the html file with your favorite browser and that's it, you can edit it if you want. There is also a web page with sound that I put so you can just drag the file to your
 browser or your favorite IDE and integrate it with the web page.
