@@ -3,6 +3,8 @@ function yeet() {
     
     console.log("You have been alerted!!");
     alert("This is cool!!");
+    console.log("This is a test for the console log");
+    alert("Something cool is happening here!");
 
     for (var i = 0; i < xd; i++) {
         console.log(i)
