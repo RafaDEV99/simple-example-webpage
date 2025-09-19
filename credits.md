@@ -1,4 +1,7 @@
-Estos scripts están hechos por RafaDEV99
-Puedes usar estos libremente como aprendizaje de como funcionan los scripts, sin embargo no copies igual el script y no digas que es tuyo :D
+These scripts are by @RafaDEV99
 
- ¡Gracias por respetar mi trabajo y feliz codificación!
+Please if you want to use it give credit
+and modified
+
+Be respecfull, please!
+:D
