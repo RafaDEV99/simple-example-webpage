@@ -1,5 +1,5 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/RafaDEV99/Pagina-web-simple)
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/RafaDEV99/Pagina-web-simple/latest/total)
+![Github comit activity](https://img.shields.io/github/commit-activity/m/RafaDEV99/Pagina-web-simple)
 
 # Instructions:
 Open the html file with your favorite browser and that's it, you can edit it if you want. There is also a web page with sound that I put so you can just drag the file to your
