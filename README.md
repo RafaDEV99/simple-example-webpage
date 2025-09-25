@@ -1,5 +1,5 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/RafaDEV99/simple-example-webpage?style=for-the-badge)
-![Github comit activity](https://img.shields.io/github/commit-activity/m/RafaDEV99/Pagina-web-simple)
+![Github comit activity](https://img.shields.io/github/commit-activity/m/RafaDEV99/Pagina-web-simple?style=for-the-badge)
 
 
 # Instructions:
