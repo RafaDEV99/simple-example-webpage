@@ -22,3 +22,9 @@ function timerCOOL() {
     var numTime = timer;
     console.log(numTime);
 }
+
+function forGo() {
+    for (var i = 0; i < 10; i++) {
+        console.log("This is a for loop: " + i);
+    }
+}
