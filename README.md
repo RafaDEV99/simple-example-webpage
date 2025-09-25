@@ -5,7 +5,7 @@
 Open the HTML file with your favorite browser, and that's it; you can edit it if you want. There is also a web page with sound that I put so you can just drag the file to your
 browser or your favorite IDE and integrate it with the web page.
 
-If you have any problems or comments, post them in the problems section on GitHub. I'm always on the lookout!!!!
+If you have any problems or comments, please post them in the issues section on GitHub. I'm always on the lookout!!!!
 
 # Credits:
 These scripts are made by RafaDEV99. You can use these freely as learning how scripts work; however, don't copy the same script and don't say it's yours :D
