@@ -1,3 +1,8 @@
+/**
+ * Triggers two user alerts and logs informational messages plus the integers 0 through 19 to the console.
+ *
+ * Displays two alert dialogs and logs two informational messages, then logs each integer from 0 to 19 (inclusive of 0, exclusive of 20).
+ */
 function yeet() {
     var xd = 20;
     
