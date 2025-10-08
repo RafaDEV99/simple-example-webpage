@@ -25,4 +25,4 @@ These are some cool features you can implement:
 3. Also add functionality
 4. and more!
 
-Remenber to respect my work!!! :3
+Remenber to respect my work!!!
