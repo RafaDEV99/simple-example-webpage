@@ -16,7 +16,7 @@ window.addEventListener('DOMContentLoaded', () => {
 window.addEventListener("DOMContentLoaded", () => {
     document.getElementById("StopSoundNOWbutton").addEventListener('click', function () {
 
-        // TODO: and this too xD
+        // NOTE: edit this too
         document.getElementById("troll_body").setAttribute("style", "display: grid; padding: 30px; visibility: hidden")
         video.pause();
         video.currentTime = 0.0;
