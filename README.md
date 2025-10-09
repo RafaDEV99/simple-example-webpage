@@ -26,3 +26,9 @@ These are some cool features you can implement:
 4. and more!
 
 Remenber to respect my work!!!
+
+# TIP:
+**If you want to update the repo with the examples, use:**
+```
+git push origin main
+```
