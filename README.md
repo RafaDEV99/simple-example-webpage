@@ -1,9 +1,10 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/RafaDEV99/simple-example-webpage?style=for-the-badge)
 ![Github comit activity](https://img.shields.io/github/commit-activity/m/RafaDEV99/Pagina-web-simple?style=for-the-badge)
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/RafaDEV99/simple-example-webpage?utm_source=oss&utm_medium=github&utm_campaign=RafaDEV99%2Fsimple-example-webpage&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews&style=for-the-badge)
 
 
 # Instructions:
-You can open the HTML file with your preferred browser, and that's it - you can edit it if you'd like. There is also a web page with sound that I put up so you can just drag the file to your computer
+You can open the HTML file with your preferred browser, and that's it - you can edit it if you'd like. There is also a web page with sound that I put up, so you can just drag the file to your computer
 browser or your favorite IDE and integrate it with the web page.
 
 If you have any problems or comments, please post them in the issues section on GitHub. I'm always on the lookout!
