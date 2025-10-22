@@ -2,7 +2,6 @@
 ![Github comit activity](https://img.shields.io/github/commit-activity/m/RafaDEV99/Pagina-web-simple?style=for-the-badge)
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/RafaDEV99/simple-example-webpage?utm_source=oss&utm_medium=github&utm_campaign=RafaDEV99%2Fsimple-example-webpage&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews&style=for-the-badge)
 
-
 # Instructions:
 You can open the HTML file with your preferred browser, and that's it - you can edit it if you'd like. There is also a web page with sound that I put up, so you can just drag the file to your computer
 browser or your favorite IDE and integrate it with the web page.
@@ -36,7 +35,6 @@ git push origin main
 
 contributors
 ------------
-
 <a href="https://github.com/RafaDEV99/simple-example-webpage/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=RafaDEV99/simple-example-webpage&max=500&columns=20&anon=1" />
 </a>
