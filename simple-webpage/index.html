@@ -3,89 +3,80 @@ Por RafaDEV99-->
 
 <!DOCTYPE html>
 <html lang="es">   
-    <head>
-        <title>The cool web page!</title> 
-        <link rel="stylesheet" href="style.css">
-    </head>
-    
-    <script src="main.js"></script>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The cool web page!</title> 
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js" defer></script>
+</head>
+<body>
+    <h1>Un épico saludo</h1>
 
-    <body>
+    <img src="assets/Cat.jpg" alt="Un gato épico">
 
-        <h1>Un epico saludo</h1>
+    <div style="color: rgb(235, 216, 14);">
+        Hola, mundo, ¿cómo estás?<br>
+        ¡Yo MUY bien!<br>
+        Y hoy vamos a ver cosas muy épicas ;D
+    </div>
 
-        <img src="assets/Cat.jpg">
+    <div style="color: rgb(235, 216, 14);">
+        Hello world! How are you?<br>
+        I'm very good now!<br>
+        And today I will do epic things ;D
+    </div>
 
+    <form>
+        <input type="text" placeholder="Full name" name="name">
+        <input type="submit" value="Enviar">
+    </form>
 
-        <div style="color: rgb(235, 216, 14);">
-            Hola, mundo, como estas
-            Yo MUYY bien
-            Y hoy vamos a ver cosas my epicas ;D
-        </div>
+    <button type="button" onclick="timerCOOL()">Epic!</button>
 
-        <div style="color: rgb(235, 216, 14);">
-            Hello world!, how are you?
-            Im very good now!
-            And today i will do epic things ;D
-        </div>
+    <p>¡Elige algo venga XD que esto está bastante bien!</p>
 
-        <form>
-            <input type="text" placeholder="full name" name="name">
-            <input type="submit">
-        </form>
+    <div style="color: blue; background-color: aliceblue; width: 270px;">
+        <label><input name="opcion" type="radio" value="Helado"> Helado</label>
+        <label><input name="opcion" type="radio" value="Tomate"> Tomate</label>
+        <label><input name="opcion" type="radio" value="Caramelos"> Caramelos</label>
+        <label><input name="opcion" type="radio" value="Cacao"> Cacao</label>
+        <label><input name="opcion" type="radio" value="Cosas"> Cosas</label>
+        <label><input name="opcion" type="radio" value="Cosas épicas"> Cosas épicas</label>
+    </div>
 
+    <div style="color: blue; background-color: aliceblue; width: 270px;">
+        <label><input name="opcion2" type="radio" value="Remolacha"> Remolacha</label>
+        <label><input name="opcion2" type="radio" value="Berenjena"> Berenjena</label>
+        <label><input name="opcion2" type="radio" value="Fun"> Not a boring thing</label>
+    </div>
 
-        <button type="button" onclick="timerCOOL()">Epic!</button>
+    <div style="color: blue;" id="solo-este">
+        <div id="tex">Lista de la compra:</div>
+        <ol>
+            <li>Papas</li>
+            <li>Helado</li>
+            <li>Tomate</li>
+            <li>Caramelos</li>
+            <li>Cacao XD</li>
+            <li>Epic</li>
+            <li>Y cosas</li>
+        </ol>
+    </div>
 
-
-        Elige algo venga XD que esto esta bastante bien!!
-
-        <div style="color: blue; background-color: aliceblue; width: 270px;">
-            <input name="Helado" type="radio" value="Helado "> Helado
-            <input name="tomate" type="radio" value="tomate"> Tomate
-            <input name="caramelos OPT" type="radio" value="caramelos"> Caramelos
-            <input name="Cacao" type="radio" value="Cacao"> Cacao
-            <input name="cosas" type="radio" value="cosas"> Cosas
-            <input type="radio" name="muchas mas cosas increibles" value="XD"> Cosas epicas
-        </div>
-
-        <div style="color: blue; background-color: aliceblue; width: 270;">
-            <input name="remolacha" type="radio" value="remolacha"> remolacha
-            <input name="berenjena" type="radio" value="berenjena"> berenjena
-            <input type="radio" name="not a boring thing :D" value="fun"> not a boring thing
-        </div>
-
-
-        <div style="color: blue;" id="solo-este">
-            <div id="tex">lista de la compra:</div>
-            <ol>
-                <li>Papas</li>
-                <li>Helado</li>
-                <li>tomate</li>
-                <li>caramelos</li>
-                <li>Cacao XD</li>
-                <li>Epic</li>
-                <li>y cosas</li>
-            </ol>
-        </div>
-
-        <button type="button" onclick="yeet()">This is a button!!</button>
-    </body>
+    <button type="button" onclick="yeet()">This is a button!!</button>
 
     <script>
-        
-        console.log("Entraste")
+        console.log("Entraste");
 
-        fungus = "Entaste"
+        let fungus = "Entraste";
 
-        if (fungus= "Entraste") {
-            
-            console.log("XD")
-            console.error("QUE HACES AQUI!?!?!?!")
-            console.log("Naw you can stay here!")
-            console.error("But be aware if you are here")
-
+        if (fungus === "Entraste") {
+            console.log("XD");
+            console.error("¡¿QUÉ HACES AQUÍ?!?!");
+            console.log("Naw you can stay here!");
+            console.error("But be aware if you are here");
         }
     </script>
-
+</body>
 </html>
