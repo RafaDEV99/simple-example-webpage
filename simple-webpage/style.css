@@ -11,7 +11,7 @@ h1 {
 
 html, body {
     height: 100%;
-    margin: 20;
+    margin: 20px;
     margin-bottom: 100px;
     transform: translateY(80px);
 }
@@ -35,14 +35,14 @@ div {
     height: 45px;
     padding: 20px;
     margin: 20px;
-    border: var(--bordingBlue) 4px inset;
+    border: 4px inset var(--bordingBlue);
 }
 
 img {
     border-radius: 30px;
     padding: 2px;
     margin: 5px;
-    border: var(--bordingBlue) 4px inset;
+    border: 4px inset var(--bordingBlue);
 }
 
 .div2 {
@@ -80,9 +80,9 @@ button, div, img, h1, ol, li {
     transform: scale(1);
     transition: transform 0.3s ease;
     background-color: rgba(0, 0, 0, 0);
-    border: transparent 2px solid;
+    border: 2px solid transparent;
     width: auto;
     height: auto;
     margin: 1px;
-    padding: 0px;
+    padding: 0;
 }
