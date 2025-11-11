@@ -1,7 +1,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/RafaDEV99/simple-example-webpage?style=for-the-badge)
 ![Github comit activity](https://img.shields.io/github/commit-activity/m/RafaDEV99/Pagina-web-simple?style=for-the-badge)
 
-
 # Instructions:
 You can open the HTML file with your preferred browser, and that's it - you can edit it if you'd like. There is also a web page with sound that I put so you can just drag the file to your
 browser or your favorite IDE and integrate it with the web page.
@@ -24,5 +23,3 @@ These are some cool features you can implement:
 2. Add more images
 3. Also add functionality
 4. and more!
-
-Remenber to respect my work!!!
