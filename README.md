@@ -10,10 +10,10 @@ If you have any problems or comments, please post them in the issues section on 
 # Credits:
 RafaDEV99 makes these scripts. You can use these freely as learning how scripts work; however, don't copy the same script and don't say it's yours :D
 
-Thanks for respecting my work and happy coding!
+Thank you for respecting my work, and happy coding!
 
 # Add your things (if you want!)
-Yes, you can also add whatever you like to the project, even if you are not good at programming, but want to add a message of your own. Feel free to commit with a new message or something you want to add to the code!
+Yes, you can also add whatever you like to the project, even if you are not good at programming, but want to add a message of your own. Feel free to contribute a new message or add something to the code.
 
 Thank you for looking at my project!
 
