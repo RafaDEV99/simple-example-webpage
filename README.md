@@ -8,7 +8,7 @@ browser or your favorite IDE and integrate it with the web page.
 If you have any problems or comments, please post them in the issues section on GitHub. I'm always on the lookout!
 
 # Credits:
-RafaDEV99 makes these scripts. You can use these freely as learning how scripts work; however, don't copy the same script and don't say it's yours :D
+RafaDEV99 makes these scripts. You can use these freely as learning how scripts work; however, don't copy the same script and don't say it's yours!
 
 Thank you for respecting my work, and happy coding!
 
