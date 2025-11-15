@@ -17,9 +17,4 @@ Yes, you can also add whatever you like to the project, even if you are not good
 
 Thank you for looking at my project!
 
-# Cool things to do!
-These are some cool features you can implement:
-1. You can change the CSS file!
-2. Add more images
-3. Also add functionality
-4. and more!
+# There are cool things to do!
