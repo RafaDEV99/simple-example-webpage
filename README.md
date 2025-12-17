@@ -5,13 +5,13 @@
 > If you have any issues, put them in the issues!
 
 # Instructions:
-You can open the HTML file with your preferred browser, and that's it - you can edit it if you'd like. There is also a web page with sound that I put up, so you can just drag the file to your computer
+You can open the HTML file with your preferred browser, and that's it - you can edit it if you'd like. There is also a web page with sound that I put up, so you can drag the file to your computer
 browser or your favorite IDE and integrate it with the web page.
 
 If you have any problems or comments, please post them in the issues section on GitHub. I'm always on the lookout!
 
 # Credits:
-RafaDEV99 makes these scripts. You can use these freely as learning how scripts work; however, don't copy the same script and don't say it's yours!
+RafaDEV99 makes these scripts. You can use these freely as a learning tool to understand how scripts work; however, please refrain from copying the same script and don't claim it as your own.
 
 Thank you for respecting my work, and happy coding!
 
