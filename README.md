@@ -19,5 +19,3 @@ Thank you for respecting my work, and happy coding!
 Yes, you can also add whatever you like to the project, even if you are not good at programming, but want to add a message of your own. Feel free to contribute a new message or add something to the code.
 
 Thank you for looking at my project!
-
-# There are cool things to do!
