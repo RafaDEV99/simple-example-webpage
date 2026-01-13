@@ -12,6 +12,8 @@ function yeet() {
 
 }
 
+// Epic!
+
 function timerCOOL() {
     console.log("This is a timer so wait the time!");
     const timer = setTimeout(() => {
